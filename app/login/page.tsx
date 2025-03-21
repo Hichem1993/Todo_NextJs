@@ -8,8 +8,8 @@ import { FcGoogle } from "react-icons/fc";
 import { emailLogin, signup } from "./actions";
 
 
-
 export default function LoginPage() {
+
     
   return (
     <main className="bg-[#000000] h-screen flex items-center justify-center p-10 text-white">
